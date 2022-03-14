@@ -4,5 +4,5 @@ This data contains the temperature of near Ann Arbor, Michigan, United States fr
 The goal of this project is to illustrate the 2015 records which break the maximum and minimum temperature of mentioned area between 2005 and 2014.  
 
 <p align="center">
-  <img src="https://github.com/hamedmokazemi/Michigan_Tempt/blob/main/temp.jpg" alt="Sublime's custom image"/>
+  <img src="https://github.com/hamedmokazemi/Michigan_Temp/blob/main/temp.jpg" alt="Sublime's custom image"/>
 </p>  
